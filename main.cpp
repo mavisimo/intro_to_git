@@ -11,6 +11,13 @@ void new_function(int)
 return;
 }
 
+
+void next_new(int)
+{
+int i = 0;
+return;
+}
+
 int main()
 {
 int a;
